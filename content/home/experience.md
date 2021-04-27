@@ -25,7 +25,7 @@ experience:
   - title: Explainable AI research intern
     company: Inria
     company_url: 'https://inria.fr'
-    company_logo: org-gc
+    company_logo: inria
     location: Nice, France
     date_start: '2021-03-15'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Machine Learning engineer intern
     company: Alten
     company_url: 'https://alten.com'
-    company_logo: org-x
+    company_logo: alten
     location: Nice, France
     date_start: '2020-08-15'
     date_end: '2021-02-26'
@@ -43,7 +43,7 @@ experience:
   - title: Deputy Manager of IT Department
     company: JEToP - Junior Enterprise Torino Politenico
     company_url: 'https://jetop.com'
-    company_logo: org-x
+    company_logo: jetop
     location: Turin, Italy
     date_start: '2017-11-01'
     date_end: '2018-04-30'
@@ -52,7 +52,7 @@ experience:
   - title: IT Consultant
     company: JEToP - Junior Enterprise Torino Politenico
     company_url: 'https://jetop.com'
-    company_logo: org-x
+    company_logo: jetop
     location: Turin, Italy
     date_start: '2016-10-01'
     date_end: '2018-04-30'
