@@ -22,28 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Explainable AI research intern
+    company: Inria
+    company_url: 'https://inria.fr'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Nice, France
+    date_start: '2021-03-15'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 'I am currently working on a project about interpretability and explainability of machine learning models as member of the [Maasai - Models and Algorithms for Artificial Intelligence](https://team.inria.fr/maasai/) team.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Machine Learning engineer intern
+    company: Alten
+    company_url: 'https://alten.com'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Nice, France
+    date_start: '2020-08-15'
+    date_end: '2021-02-26'
+    description: Automation of image processing to improve and correct images of scanned or photographed documents for the automatic extraction of relevant information.
+
 
 design:
   columns: '2'
