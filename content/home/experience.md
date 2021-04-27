@@ -29,7 +29,7 @@ experience:
     location: Nice, France
     date_start: '2021-03-15'
     date_end: ''
-    description: 'I am currently working on a project about interpretability and explainability of machine learning models as member of the [Maasai - Models and Algorithms for Artificial Intelligence](https://team.inria.fr/maasai/) team.
+    description: 'I am currently working on a project about interpretability and explainability of machine learning models as member of the [Maasai - Models and Algorithms for Artificial Intelligence](https://team.inria.fr/maasai/) team.'
         
   - title: Machine Learning engineer intern
     company: Alten
