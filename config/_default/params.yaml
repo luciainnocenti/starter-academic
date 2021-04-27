@@ -36,14 +36,15 @@ directions:
 office_hours:
 appointment_url: 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/gl_lopardo'
   - icon: linkedin
     icon_pack: fab
     name: DM Me
     link: 'https://linkedin.com/in/gianluigilopardo'
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/gl_lopardo'
+
 
 # Site header
 
