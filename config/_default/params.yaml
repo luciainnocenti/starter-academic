@@ -27,8 +27,8 @@ address:
   city: 
   region: 
   postcode: 
-  country: Italy  
-  country_code: IT
+  country:   
+  country_code: 
 coordinates:
   latitude: 
   longitude:
