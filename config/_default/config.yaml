@@ -5,7 +5,7 @@
 
 title: Gianluigi Lopardo # Website name
 baseurl: 'https://gianluigilopardo.github.io' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Gianluigi lopardo' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

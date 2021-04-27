@@ -40,6 +40,24 @@ experience:
     date_end: '2021-02-26'
     description: Automation of image processing to improve and correct images of scanned or photographed documents for the automatic extraction of relevant information.
 
+  - title: Deputy Manager of IT Department
+    company: JEToP - Junior Enterprise Torino Politenico
+    company_url: 'https://jetop.com'
+    company_logo: org-x
+    location: Turin, Italy
+    date_start: '2017-11-01'
+    date_end: '2018-04-30'
+    description: Management of Junior Enterprise IT team and customer relations, prior review and contracts, internal training organization and technical support in the execution of projects.
+
+  - title: IT Consultant
+    company: JEToP - Junior Enterprise Torino Politenico
+    company_url: 'https://jetop.com'
+    company_logo: org-x
+    location: Turin, Italy
+    date_start: '2016-10-01'
+    date_end: '2018-04-30'
+    description: Implementation of computer projects, commissioned by external customers or for internal services, such as the development of websites and multi-platform applications.
+
 
 design:
   columns: '2'
