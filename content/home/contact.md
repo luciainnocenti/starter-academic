@@ -18,8 +18,8 @@ content:
   
   # Email form provider
   form:
-    provider: formspree 
-    formspree: mayaqnag
+    provider: wowchemy 
+    formspree: 
       id: mayaqnag
     formspree :
       # Enable CAPTCHA challenge to reduce spam?
