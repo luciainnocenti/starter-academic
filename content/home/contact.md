@@ -19,8 +19,7 @@ content:
   # Email form provider
   form:
     provider: wowchemy 
-    formspree:
-      id: mayaqnag
+    formspree: mayaqnag
     wowchemy:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true 
