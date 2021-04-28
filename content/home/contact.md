@@ -18,10 +18,10 @@ content:
   
   # Email form provider
   form:
-    provider: netlify 
-    formspree:
-      id:
-    netlify :
+    provider: formspree 
+    formspree: 
+      id: mayaqnag
+    formspree :
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true 
   
