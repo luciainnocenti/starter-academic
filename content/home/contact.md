@@ -20,6 +20,7 @@ content:
   form:
     provider: wowchemy 
     formspree: mayaqnag
+      id: mayaqnag
     wowchemy:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true 
