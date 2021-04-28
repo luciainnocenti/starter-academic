@@ -21,7 +21,7 @@ content:
     provider: formspree 
     formspree: 
       id: mayaqnag
-    formspree :
+    formspree : mayaqnag
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true 
   
