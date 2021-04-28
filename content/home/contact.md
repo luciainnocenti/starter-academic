@@ -19,7 +19,7 @@ content:
   # Email form provider
   form:
     provider: formspree 
-    formspree: 
+    formspree: mayaqnag
       id: mayaqnag
     formspree :
       # Enable CAPTCHA challenge to reduce spam?
