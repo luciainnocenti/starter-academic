@@ -18,7 +18,7 @@ content:
   
   # Email form provider
   form:
-    provider: wowchemy 
+    provider: formspree 
     formspree: 
       id: mayaqnag
     formspree :
