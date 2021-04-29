@@ -29,7 +29,7 @@ experience:
     location: Nice, France
     date_start: '2021-03-15'
     date_end: ''
-    description: 'I am currently working on a project about interpretability and explainability of machine learning models as member of the [Maasai - Models and Algorithms for Artificial Intelligence](https://team.inria.fr/maasai/) team.'
+    description: 'Inria is the French Institute for Research in Computer Science and Automation. As a member of the [Maasai](https://team.inria.fr/maasai/) team, I am researching methods for interpretability of machine learning models and algorithms.'
         
   - title: Machine Learning engineer intern
     company: Alten
@@ -38,25 +38,20 @@ experience:
     location: Nice, France
     date_start: '2020-08-15'
     date_end: '2021-02-26'
-    description: Automation of image processing to improve and correct images of scanned or photographed documents for the automatic extraction of relevant information.
+    description: 'ALTEN is a multinational technology and engineering consulting company. I worked as intern in the Sophia Antipolis Lab, mainly in the Computer Vision area, on a project for automatic processing of scanned or photographed documents.'
 
-  - title: Deputy Manager of IT Department
-    company: JEToP - Junior Enterprise Torino Politenico
-    company_url: 'https://jetop.com'
-    company_logo: jetop
-    location: Turin, Italy
-    date_start: '2017-11-01'
-    date_end: '2018-04-30'
-    description: Management of Junior Enterprise IT team and customer relations, prior review and contracts, internal training organization and technical support in the execution of projects.
-
-  - title: IT Consultant
+  - title: 'Deputy Manager of IT Department, IT Consultant'
     company: JEToP - Junior Enterprise Torino Politenico
     company_url: 'https://jetop.com'
     company_logo: jetop
     location: Turin, Italy
     date_start: '2016-10-01'
     date_end: '2018-04-30'
-    description: Implementation of computer projects, commissioned by external customers or for internal services, such as the development of websites and multi-platform applications.
+    description: |2- 
+        JEToP is a non-profit organisation that operates in Turin as a Web Agency and provides many different services for companies. My roles were:
+
+        * Management of the IT area team and projects.
+        * Implementation of IT projects, mainly websites. e-commerce and cross-platform applications.
 
 
 design:
