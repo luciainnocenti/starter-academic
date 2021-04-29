@@ -51,7 +51,7 @@ experience:
         JEToP is a non-profit organisation that operates in Turin as a Web Agency and provides many different services for companies. My roles were:
 
         * Management of the IT area team and projects.
-        * Implementation of IT projects, mainly websites. e-commerce and cross-platform applications.
+        * Implementation of IT projects, mainly websites, e-commerce and cross-platform applications.
 
 
 design:
