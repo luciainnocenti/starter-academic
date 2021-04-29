@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Gianluigi Lopardo # Website name
-baseurl: 'https://gianluigilopardo.github.io' # Website URL
+baseurl: 'https://gianluigilopardo.science' # Website URL
 copyright: '© 2021 Gianluigi Lopardo' # Footer text, e.g. '© {year} Me'
 
 ############################
